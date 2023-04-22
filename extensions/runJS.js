@@ -4,7 +4,7 @@
   class JavaScriptCommand {
     getInfo () {
       return {
-        id: 'javascript_command',
+        id: 'SJS',
         name: 'JavaScript Command',
         blocks: [
           {
